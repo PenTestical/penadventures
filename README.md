@@ -4,7 +4,7 @@
 
 ## Installation
 
-```sudo git clone https://github.com/PenTestical/penadventures``` 
+```git clone https://github.com/PenTestical/penadventures``` 
 
 ```cd penadventures && chmod +x installer.sh``` 
 
