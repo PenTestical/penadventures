@@ -10,6 +10,10 @@
 
 ```sudo bash installer.sh```
 
+# Demo 
+
+https://user-images.githubusercontent.com/57206134/121814733-e4174380-cc72-11eb-9bc0-d001512afdef.mp4
+
 ## Credits
 
 Copyright Simple House | Design: TemplateMo
