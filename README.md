@@ -1,3 +1,3 @@
 # penadventures
 
-## small collection of vulnerable web challenges
+## small Bash challenge for Ethical Hackers
