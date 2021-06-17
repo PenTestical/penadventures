@@ -4,7 +4,7 @@
 # Tested on: Parrot OS 4.10
 
 # Datei in richtiges Verzeichnis bringen
-sudo cp ../penadventures /var/www/html/penadventures
+sudo mv ../penadventures /var/www/html/penadventures
 
 # Apache2 Webserver starten und Dateirechte anpassen
 # Ggf. ist Apache2 zu installieren
